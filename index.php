@@ -1,2 +1,2 @@
-<?php echo "Teste de CVs"; ?>
+<?php echo "Teste de CVS"; ?>
 <?php phpinfo(); ?>
